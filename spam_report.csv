@@ -1,0 +1,5 @@
+sender,subject,spam_score,is_spam
+offer@spam.com,Win a FREE iPhone,5,True
+info@college.edu,Exam Timetable,0,False
+lottery@scam.net,Congratulations!,3,True
+friend@mail.com,Meeting tomorrow,0,False
