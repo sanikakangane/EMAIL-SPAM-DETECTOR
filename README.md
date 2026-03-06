@@ -83,5 +83,3 @@ Through this project, I practiced:
 
 ## 👩‍💻 Author
 **Sanika Kangane**
-
-GitHub: https://github.com/sanikakangane
